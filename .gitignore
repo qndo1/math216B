@@ -209,3 +209,5 @@ __marimo__/
 
 # data
 Final_proj/data/
+*.png
+*.pkl
