@@ -1,6 +1,6 @@
-# Final Project — Lottery Ticket Neural Networks (MAST 216B)
+# Final Project — Lottery Ticket Neural Networks (MATH 216B)
 
-This folder contains the final project for **MAST 216B**. The project investigates the **Lottery Ticket Hypothesis** for neural networks — the idea that a dense, randomly-initialized network contains a sparse sub-network (a "winning ticket") that, when trained in isolation, can match the performance of the full network. The experiments focus on convolutional neural networks trained on CIFAR-10 and CIFAR-100, and explore how lottery tickets transfer across datasets and how ticket sparsity relates to the intrinsic dimensionality of the target function.
+This folder contains the final project for **MATH 216B**. The project investigates the **Lottery Ticket Hypothesis** for neural networks — the idea that a dense, randomly-initialized network contains a sparse sub-network (a "winning ticket") that, when trained in isolation, can match the performance of the full network. The experiments focus on convolutional neural networks trained on CIFAR-10 and CIFAR-100, and explore how lottery tickets transfer across datasets and how ticket sparsity relates to the intrinsic dimensionality of the target function.
 
 ## Notebooks
 
